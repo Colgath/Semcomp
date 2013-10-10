@@ -1,2 +1,2 @@
-Capitulo 1
-Capitulo 2
+Capitulo 1 - capitulo1.txt
+Capitulo 2 - capitulo2.txt
